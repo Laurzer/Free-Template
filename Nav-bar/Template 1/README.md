@@ -19,4 +19,4 @@ Github: "https://github.com/Laurzer/Free-Template"
 Je t'autorise à utiliser/modifier mon template gratuit.
 
 
-![alt text](https://github.com/Laurzer/Free-Template/blob/main/icover.pngraw=true)
+![alt text](https://github.com/Laurzer/Free-Template/blob/main/cover.pngraw=true)
