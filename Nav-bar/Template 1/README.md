@@ -17,3 +17,6 @@ Date de création: 12/03/2021
 Github: "https://github.com/Laurzer/Free-Template"
 
 Je t'autorise à utiliser/modifier mon template gratuit.
+
+
+![alt text](https://github.com/Laurzer/Free-Template/blob/main/icover.pngraw=true)
